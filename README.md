@@ -1,4 +1,16 @@
-# ProgressCircle
+# ProgressCircle Vue Test
+Small component challenge. 
+1. Use Vue or React
+2. Don't utilize 3rd partie libraries
+3. Component takes 5 arguments
+    - Size
+    - Fill Color
+    - Progress Value
+    - Completion Method
+4. Progress Bar should be white circle, that fills with dynamic color input
+5. Midddle of circle should have updating font to display progression
+6. At 100% completion, display message.
+7. Provide code commenting
 
 ## Project setup
 ```
